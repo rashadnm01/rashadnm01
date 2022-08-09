@@ -57,7 +57,7 @@
 
 <a href="https://grand-cendol-b575c6.netlify.app/)"><img alt="Website" src=""></a>
 
-<a href="https://www.linkedin.com/in/rashad-muhammad-0955ab21b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rashad-muhammad-0955ab21b/">LinkedIn</a>
 
 </p>
 
