@@ -55,7 +55,7 @@
 
 <p align="center">
 
-<a href="https://grand-cendol-b575c6.netlify.app/)"><img alt="Website" src=""></a>
+<a href="https://grand-cendol-b575c6.netlify.app/"><img alt="Website" src=""></a>
 
 <a href="https://www.linkedin.com/in/rashad-muhammad-0955ab21b/">LinkedIn</a>
 
