@@ -22,7 +22,7 @@
 
 - 💻 &nbsp; JavaScript | Java | Scala 
 
-- 🌐 &nbsp; React | HTML | CSS | Tailwind | Bootstrap2 | MySQL | AWS EC2
+- 🌐 &nbsp; React | HTML | CSS | Tailwind | Bootstrap | MySQL | AWS EC2
 
 <!--
 
