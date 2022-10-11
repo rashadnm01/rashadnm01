@@ -20,9 +20,10 @@
 
 
 
-- 💻 &nbsp; JavaScript | Java | Scala 
+- 💻 &nbsp; MERN
+<h3>🛠 Skills</h3>
 
-- 🌐 &nbsp; React | HTML | CSS | Tailwind | Bootstrap | MySQL | AWS EC2
+- 🌐 &nbsp; JavaScript | Java | Scala | React | HTML | CSS | Tailwind | Bootstrap | MySQL | AWS EC2
 
 <!--
 
